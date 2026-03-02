@@ -65,8 +65,6 @@ Maintaining a multi-layer infrastructure ecosystem used for:
 - Certificate failure injection testing
 - High-availability failover modeling
 
-This lab simulates Fortune 50 architecture patterns in a controlled environment.
-
 ---
 
 ## 🧰 Tooling Stack
