@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="dgarner.png" width="200" alt="DG Logo"/>
+  <img src="dgarner.png" width="200" alt="DG Logo"/><img src="dg-nu-transparent.png" width="200" alt="DG Logo"/>
 </p>
 
 <h1 align="center">D. Garner</h1>
